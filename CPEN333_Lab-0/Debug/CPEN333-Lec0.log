@@ -1,0 +1,3 @@
+﻿E:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CPEN333-Lec0.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  CPEN333-Lec0.vcxproj -> E:\Panda\Desktop\CPEN 333 Projects\CPEN333-Lec0\Debug\CPEN333-Lec0-P1.exe

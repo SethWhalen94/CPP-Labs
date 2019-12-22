@@ -1,0 +1,6 @@
+﻿  ParentWithThreads.cpp
+E:\Panda\Desktop\CPEN_333_Projects\CPEN333_Lab-4\Lab4_PartB\ParentWithThreads.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+E:\Panda\Desktop\CPEN_333_Projects\CPEN333_Lab-4\Lab4_PartB\ParentWithThreads.cpp(69,21): warning C4018: '<': signed/unsigned mismatch
+E:\Panda\Desktop\CPEN_333_Projects\CPEN333_Lab-4\Lab4_PartB\ParentWithThreads.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+E:\Panda\Desktop\CPEN_333_Projects\CPEN333_Lab-4\Lab4_PartB\ParentWithThreads.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+  Lab4_PartB.vcxproj -> E:\Panda\Desktop\CPEN_333_Projects\CPEN333_Lab-4\Lab4_PartB\Debug\Lab4_PartB.exe
